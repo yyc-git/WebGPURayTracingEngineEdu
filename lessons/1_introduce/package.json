@@ -1,0 +1,12 @@
+{
+    "name": "introduce",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "homepage": "https://github.com/yyc-git/WebGPURayTracingEngineEdu",
+    "authors": "Wonder",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+    }
+}
