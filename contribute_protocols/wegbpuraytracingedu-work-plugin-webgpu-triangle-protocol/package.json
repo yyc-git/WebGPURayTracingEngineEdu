@@ -1,0 +1,18 @@
+{
+    "name": "webgpuraytracingedu-work-plugin-webgpu-triangle-protocol",
+    "version": "0.5.0",
+    "description": "",
+    "publisher": "webgpuraytracingedu",
+    "author": "Meta3D",
+    "license": "MIT",
+    "scripts": {
+        "watch": "tsc -w",
+        "meta3d:publish_dev": "gulp publish",
+        "meta3d:publish_pro": "gulp publish"
+    },
+    "keywords": [],
+    "devDependencies": {
+        "meta3d-tool-publish-protocol":"^0.5.0",
+        "typescript": "^4.2.3"
+    }
+}

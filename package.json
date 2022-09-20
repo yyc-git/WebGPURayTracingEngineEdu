@@ -6,7 +6,11 @@
         "install": "lerna bootstrap"
     },
     "workspaces": [
-        "lessons/*"
+        "lessons/*",
+        "contributes/*",
+        "extensions/*",
+        "contribute_protocols/*",
+        "extension_protocols/*"
     ],
     "devDependencies": {
         "lerna": "^4.0.0"

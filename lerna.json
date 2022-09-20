@@ -1,6 +1,10 @@
 {
   "packages": [
-    "lessons/*"
+    "lessons/*",
+    "contributes/*",
+    "extensions/*",
+    "contribute_protocols/*",
+    "extension_protocols/*"
   ],
   "npmClient": "yarn",
   "command": {
